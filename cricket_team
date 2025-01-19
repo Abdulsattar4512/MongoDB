@@ -1,0 +1,22 @@
+db.cricket_team.insertMany([
+  { "name": "Virat Kohli", "role": "Batsman", "age": 34, "matches_played": 265, "average": 57.5 },
+  { "name": "Rohit Sharma", "role": "Batsman", "age": 36, "matches_played": 241, "average": 48.9 },
+  { "name": "Jasprit Bumrah", "role": "Bowler", "age": 30, "matches_played": 75, "average": 21.5 },
+  { "name": "Ravindra Jadeja", "role": "All-rounder", "age": 33, "matches_played": 171, "average": 35.3 },
+  { "name": "MS Dhoni", "role": "Wicketkeeper", "age": 41, "matches_played": 350, "average": 50.6 },
+  { "name": "KL Rahul", "role": "Batsman", "age": 31, "matches_played": 60, "average": 44.2 },
+  { "name": "Hardik Pandya", "role": "All-rounder", "age": 29, "matches_played": 87, "average": 29.8 },
+  { "name": "Yuzvendra Chahal", "role": "Bowler", "age": 33, "matches_played": 70, "average": 23.4 },
+  { "name": "Shubman Gill", "role": "Batsman", "age": 24, "matches_played": 20, "average": 53.7 },
+  { "name": "Mohammed Siraj", "role": "Bowler", "age": 29, "matches_played": 40, "average": 25.1 },
+  { "name": "Bhuvneshwar Kumar", "role": "Bowler", "age": 33, "matches_played": 117, "average": 30.5 },
+  { "name": "Mayank Agarwal", "role": "Batsman", "age": 33, "matches_played": 38, "average": 41.3 },
+  { "name": "Prithvi Shaw", "role": "Batsman", "age": 24, "matches_played": 10, "average": 37.2 },
+  { "name": "Ishant Sharma", "role": "Bowler", "age": 35, "matches_played": 100, "average": 32.6 },
+  { "name": "Shreyas Iyer", "role": "Batsman", "age": 29, "matches_played": 40, "average": 43.5 },
+  { "name": "Rishabh Pant", "role": "Wicketkeeper", "age": 26, "matches_played": 35, "average": 41.0 },
+  { "name": "Navdeep Saini", "role": "Bowler", "age": 31, "matches_played": 12, "average": 28.1 },
+  { "name": "Deepak Chahar", "role": "Bowler", "age": 31, "matches_played": 23, "average": 26.3 },
+  { "name": "Axar Patel", "role": "All-rounder", "age": 29, "matches_played": 52, "average": 32.0 },
+  { "name": "Shubman Gill", "role": "Batsman", "age": 24, "matches_played": 20, "average": 53.7 }
+]);
